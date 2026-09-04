@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/rcredd85/Vulnerability-Management-Program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fgithub%2Ecom%2Frcredd85%2FVulnerability-Management-Program&urlhash=PUZV&mt=je384X5wSYT9reUYiKgtKdiu53d5_p96iT3Cft2OFRswRJ6vlQqk9jwUp94lxxE-lcIzGwx2juvDyvniO-hUX8VF6wY&isSdui=true)**
 
 ## 🚨 Threat Hunting and Security Operations
 
