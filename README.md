@@ -21,8 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="Raymond-Cotton_| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Raymond-Cotton_| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/rdcotton85/
-[linkedin]:https://www.linkedin.com/in/raymond-cotton-2a377742/
+
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
